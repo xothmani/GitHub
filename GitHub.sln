@@ -1,6 +1,6 @@
-﻿
+Hello Rayen
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 18
+# Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.Android", "GitHub\GitHub.Android\GitHub.Android.csproj", "{17CF3E93-AA7C-455B-B182-9E339ED944FF}"
